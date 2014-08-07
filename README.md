@@ -1,0 +1,2 @@
+# hubbs
+### a Sails application
